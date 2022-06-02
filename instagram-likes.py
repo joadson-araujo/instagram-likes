@@ -1,3 +1,6 @@
+#OLD VERSION. DO NOT USE THIS SCRIPT.
+#VERSION 2 IS NOW AVALIABLE.
+
 #Script adaptado por github.com/joadson-araujo
 
 from selenium import webdriver
